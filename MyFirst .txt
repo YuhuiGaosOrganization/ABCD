@@ -1,7 +1,3 @@
-bule
-
-hello
-hello
 this is my first repository.
 helo
 hello
